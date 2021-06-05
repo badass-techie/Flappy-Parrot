@@ -7,8 +7,8 @@ Flappy Parrot is published on Google Play Store. [Click here](https://play.googl
 I decided not to open source the assets along with the source code, for obvious reasons.
 
 ![Screenshot](./screenshots/screenshot.jpg?raw=true "Screenshot")
-![Screenshot](./screenshots/screenshot1.jpg?raw=true "Screenshot")
-![Screenshot](./screenshots/screenshot2.jpg?raw=true "Screenshot")
-![Screenshot](./screenshots/screenshot3.jpg?raw=true "Screenshot")
-![Screenshot](./screenshots/screenshot4.jpg?raw=true "Screenshot")
-![Screenshot](./screenshots/screenshot5.jpg?raw=true "Screenshot")
+![Screenshot](./screenshots/screenshot1.png?raw=true "Screenshot")
+![Screenshot](./screenshots/screenshot2.png?raw=true "Screenshot")
+![Screenshot](./screenshots/screenshot3.png?raw=true "Screenshot")
+![Screenshot](./screenshots/screenshot4.png?raw=true "Screenshot")
+![Screenshot](./screenshots/screenshot5.png?raw=true "Screenshot")
